@@ -58,11 +58,11 @@ Click [My Git hub](https://github.com/junhee4613)
 :--: 중앙 정렬
 
 <!-- Code -->
-debug console Sample 'Debug.Log("--")'
+debug console Sample `Debug.Log("--")`
 
-'''C#
+```C#
 Debug.Log(Message)
-'''
+```
 
 <!-- TodoList -->
 - [x] #739
