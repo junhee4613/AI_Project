@@ -24,7 +24,8 @@ parameters
 BREAK
 1girl, solo, hair blown by the breeze, delicate facial features, Blunt bangs, mixed American, ((Peaceless beauty face: 1.2)), smile, ((model pose)), Glamor body type, flim grain, black long hair, (white baseball uniform, outdoors), (large breasts), sneakers, FilmGirl, (Clean makeup), high perspective, (thighs)
 Negative prompt: (ng_deepnegative_v1_75t),(worst quality:1.9),(low quality:1.9),(normal quality:1.9),(Double vision in both eyes, bad eyes ratio, bad eyes size, bad eyes, bad hands, bad fingers, bad anatomy),(monochrome,grayscale,drawing,ugly,anime,illustration), abs, stomach muscles, watermark, text, (nipples sticking out of clothes), (nipple over clothes), (Expression of belly button on clothes)
-Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1220229135, Size: 512x512, Model hash: a3ecb31e1c, Model: t3_Ver122, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.3.2, Mask blur: 4, Inpaint area: Only masked, Masked area padding: 32, Version: v1.8.0
 ```
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1220229135, Size: 512x512, Model hash: a3ecb31e1c, Model: t3_Ver122, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.3.2, Mask blur: 4, Inpaint area: Only masked, Masked area padding: 32, Version: v1.8.0
+
 
 ---
