@@ -1,70 +1,13 @@
-# AI_Project
-Stable Diffusion 수업 정리 자료
+# Control Net
 
-MarkDown 내용 정리
+## Scribble
 
-<!-- Heading -->
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-<!-- Line -->
+lineart, white background, masterpiece, extremely detailed thick line drawing, 1girl , hoodie, animal gloves, skirt, sneakers
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 449302032, Size: 512x512, Model hash: a3ecb31e1c, Model: t3_Ver122, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.3.2, ControlNet 0: "Module: scribble_pidinet, Model: control_v11p_sd15_scribble [d4ba51ff], Weight: 1, Resize Mode: Resize and Fill, Low Vram: False, Processor Res: 512, Guidance Start: 0, Guidance End: 1, Pixel Perfect: False, Control Mode: Balanced, Hr Option: Both, Save Detected Map: True", Mask blur: 4, Inpaint area: Only masked, Masked area padding: 32, Version: v1.8.0
 
 ---
 
-<!-- Text attributes -->
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Scribble_init.png?raw=true)
 
-+ 볼드 형식 : **볼드**
-+ 이탤릭 형식 : *이텔릭*
-+ 스트라이크쓰루 : ~~스트라이크쓰루~~ <!-- 양쪽에 ~~ 2개 -->
-
-<!-- Quote -->
->마크다운 쿼트
-
-<!-- Bullet List -->
-아이템 리스트
-* 아이템 1
-* 아이템 2
-<!-- >show side preview 이게 사이드 뷰 여는 코드 -->
-
-<!-- Numbered List -->
-숫자 리스트 : 
-1. 숫자 1
-2. 숫자 2
-3. 숫자 3
-
-<!--Ling-->
-Click [My Git hub](https://github.com/junhee4613)
-
-<!-- Image -->
-![image](![alt text](image.png))
-
-<!-- Table -->
-
-|Header|Description|other|
-|--:|:--|:--:|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-
-:-- 좌 정렬
---: 우 정렬
-:--: 중앙 정렬
-
-<!-- Code -->
-debug console Sample `Debug.Log("--")`
-
-```C#
-Debug.Log(Message)
-```
-
-<!-- TodoList -->
-- [x] #739
-- [ ] https://github.com
-- [ ] add
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Scribble.png?raw=true)
