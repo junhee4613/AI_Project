@@ -11,3 +11,14 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 449302032, Size: 512x51
 ![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Scribble_init.png?raw=true)
 
 ![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Scribble.png?raw=true)
+
+# Depth
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/00001-4169722348.png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/00013-1424112336.png?raw=true)
+
+
+# Pixel
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/00002.png?raw=true)
