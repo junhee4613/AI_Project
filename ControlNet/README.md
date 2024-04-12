@@ -22,3 +22,30 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 449302032, Size: 512x51
 # Pixel
 
 ![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/00002.png?raw=true)
+
+---
+
+## OpenPose
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/R%20(1).png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00111-3045320571.png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00038-483575418.png?raw=true)
+
+---
+## Seg
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/images%20(1).jpg?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00074-3433407905.png?raw=true)
+
+---
+## LoRA
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00169-1655991525.png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00090-1030066351.png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00080-3718997113.png?raw=true)
+
+![image](https://github.com/junhee4613/AI_Project/blob/main/ControlNet/Open_pose/00075-1959183842.png?raw=true)
